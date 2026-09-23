@@ -1,0 +1,6 @@
+{
+  "name": "iStore — Apple Premium Partner",
+  "description": "Vitrine officielle iStore, Revendeur Agréé Apple Premium Partner. Découvrez les nouveautés iPhone 16 Pro, Mac M4, simulateur Trade-in et ateliers de réparation agréés Apple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
